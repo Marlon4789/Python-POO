@@ -17,7 +17,7 @@ persona = Persona("toby", 56)
 nombre = persona.get_nombre()
 print(nombre)
 
-persona.set_nombre("Escanor hehe")
+persona.set_nombre("Escanor")
 
 nombre = persona.get_nombre()
 print(nombre)
